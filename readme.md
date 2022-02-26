@@ -1,4 +1,6 @@
 
+#Thinking in current Democracy
+
 
 Do you think 51% of the population is more right than wrong?
 
