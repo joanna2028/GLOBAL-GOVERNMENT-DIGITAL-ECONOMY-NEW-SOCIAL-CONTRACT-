@@ -7,7 +7,7 @@
 New E-Global Government on the entire Planet Earth.  
 
 
-Digital Economy - Digital Government worldwide 
+Digital Economy - New social Contract
 
 
 The world is changing in every sense: 
