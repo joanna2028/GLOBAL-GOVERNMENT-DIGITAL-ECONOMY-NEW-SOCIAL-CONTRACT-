@@ -118,10 +118,8 @@ Yet we have to start joining little by little first.
 
 
 
-This is the project we are starting with:  http://sez.network  
 
-
-At the same time, we created International Passports on the Ethereum ecosystem.  
+We created International Passports on the Ethereum ecosystem.  
 
 
 
