@@ -102,26 +102,23 @@ As Henry Kissinger warned, “When statesmen want to gain time, they offer to ta
 
 
 
-It’s our turn:
+# It’s our turn:
 
 WE THE PEOPLE. We have to ACT. (Creating a Global Digital Government) 
 
-It's the turn of others countries as well, not only the countries of G7. 
+It's the turn of others countries as well, not only G7 States.
 
 
 
 To do this, we are starting to unify the entire world with Special Economic zones first,
 
-like European Economic Community but starting from small countries, of course, the most ambitious goal is to unify the entire planet earth at the end. 
+ike European Economic Community but starting from small countries, of course, the most ambitious goal is to unify the entire planet earth at the end. 
 
 Yet we have to start joining little by little first.    
 
 
 
-
-We created International Passports on the Ethereum ecosystem.  
-
-
+# Summary
 
 
 Global Planet E-Residence. Global digital Government on the entire planet Earth. 
@@ -131,3 +128,5 @@ Digitalizing Governments, digitalizing citizens around the world.
 The purpose is to give freedom to people. 
 
 Everyone belonging to the same reliable digital jurisdiction, THE EARTH.
+
+We created International Passports on the Ethereum ecosystem.  
