@@ -1,7 +1,7 @@
 
 
 
-#VISION OF THE PROJECT 
+# VISION OF THE PROJECT 
 
 
 New E-Global Government on the entire Planet Earth.  
@@ -10,7 +10,7 @@ New E-Global Government on the entire Planet Earth.
 Digital Economy - New social Contract
 
 
-The world is changing in every sense: 
+# The world is changing in every sense: 
 
 
 1- Nature of Business changes
@@ -21,7 +21,8 @@ The world is changing in every sense:
 
 
 
-We are creating a Global Digital Government to:  
+# We are creating a Global Digital Government to:  
+
 
 UNITE THE WORLD 
 
@@ -30,7 +31,7 @@ CREATE A UNIVERSAL CONSTITUTION ( Smart Contract )
 BUILD A NEW SOCIAL CONTRACT 
 
 
-(For all, the entire humankind, 7Billion People)   
+(For all, the entire humankind, 8 Billion human beings)   
 
 
 Created by common people, US, not from politicians.   
@@ -45,14 +46,13 @@ Don’t trust in Govs, Don’t trust in politicians, Don’t trust in multinatio
 
 
 
-We believe in digital, We believe exponential technologies will give us the tools to heal the planet after this Crisis and to give freedom to people to lead 
-
-the world together.   
+We believe in digital, We believe exponential technologies will give us the tools to heal the planet after this Crisis and to give freedom to people to lead the world together.   
 
 
 
 
-Little Storytelling:  
+# Little Storytelling:  
+
 
 Once upon a time, there was a terrible pandemic that paused life around the world as people from different cultures felt suddenly 
 
@@ -69,7 +69,7 @@ to a time where white men and the ruling class had unquestioned power.
 
 
 
-What is happening NOW in the world order? (Present - June 2021)  
+# What is happening NOW in the world order? (Present - June 2021)  
 
 
 For fans of the multilateral world order, this week has been the most important week about it.  
@@ -87,7 +87,7 @@ On June 15 US president Joe Biden held a summit with EU leaders
 After that, European leaders got a breather, but Biden went on to Switzerland, to meet on June 16 Vladimir Putin, the Russian president.  
 
 
-WHAT DOES IT ALL MEAN? 
+# WHAT DOES IT ALL MEAN? 
 
 other than that the White House advance team probably needs a vacation? It’s hard to say...  
 
@@ -121,9 +121,6 @@ Yet we have to start joining little by little first.
 
 We created International Passports on the Ethereum ecosystem.  
 
-
-
-To sum up: 
 
 
 
