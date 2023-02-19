@@ -129,4 +129,4 @@ The purpose is to give freedom to people.
 
 Everyone belonging to the same reliable digital jurisdiction, THE EARTH.
 
-We created International Passports on the Ethereum ecosystem.  
+
