@@ -7,7 +7,7 @@
 
 
 
-# VISION OF THE PROJECT 
+# Vision of the project: 
 
 
 New E-Global Government on the entire Planet Earth.  
