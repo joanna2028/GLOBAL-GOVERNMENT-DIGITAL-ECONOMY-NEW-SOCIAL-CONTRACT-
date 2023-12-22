@@ -1,6 +1,6 @@
 
 # About
-# I am personally involved in leading mass global mobilization and shaping the future of the planet, humanity, civilization, culture, society. 
+# I am personally involved in leading mass global mobilization and shaping the future of the planet, humanity, civilization, culture, and society. 
 
 
 
